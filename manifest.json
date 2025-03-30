@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "outline-plugin",
+	"name": "Outline Plugin",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "outline api of the Obsidian Plugin.",
+	"author": "swkim0128",
+	"authorUrl": "https://swkim0128.github.com",
+	"fundingUrl": "",
 	"isDesktopOnly": false
 }
